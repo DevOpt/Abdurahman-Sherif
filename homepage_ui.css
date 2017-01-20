@@ -2,7 +2,7 @@
 
 body {
   background-color: white;
-  background: url("back.jpg") no-repeat center center fixed;
+  background: url("back.jpg") no-repeat center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
