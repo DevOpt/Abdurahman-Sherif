@@ -1,19 +1,12 @@
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
 
-html {
-background-image:url('back1.jpg');
-background-position: center center;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-height: 100%; 
-overflow: hidden;
-}
-
-body {           
-height:100%;
-overflow: scroll;
+body {
+  background-color: white;
+  background: url("back.jpg") no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .main_logo {
