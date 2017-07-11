@@ -213,7 +213,7 @@ ul {
     transform: translate(-48%,-50%);
 }
 .social-icon {
-    color: white;
+    color: #fff;
 }
 ul.social-icons {
     margin-top: 10px;
@@ -223,7 +223,7 @@ ul.social-icons {
     display: inline;
 }
 .social-icons a {
-    color: white;
+    color: #fff;
     text-decoration: none;
 }
 .fa-facebook {
